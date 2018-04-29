@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="shipping_array">
+        <item>Cash</item>
+        <item>Pay by Yandex.Money</item>
+        <item>Qiwi wallet</item>
+        <item>Webmoney</item>
+    </string-array>
+
+</resources>

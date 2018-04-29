@@ -1,0 +1,140 @@
+<resources>
+	<!-- App text configuration -->
+    <string name="app_name">Mike Shop</string>
+    
+    <!--  App About Information -->
+    <string name="app_version">Версия 1.1.0</string>
+    <string name="copyright">Copyright &#169; 2015 Student Shop \n All rights reserved</string>
+    <string name="email_address">ledokol73@gmail.com</string>
+
+	<!-- Parse push notification -->
+	<string name="parse_application_id">V0c7q2d6VCVuc0LXZmk3ZZbUjI4UMhIrgWmekZxP</string>
+	<string name="parse_client_key">VjtLo0qel4L3hpWSModBkBB4oPEUUEZHikHOVo7z</string>
+    
+    <!-- play store application in more apps -->
+    <string name="more_apps">https://play.google.com/store/apps/developer?id=Solodroid</string>
+    
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="no_phone">Your device does not support phone call feature</string>
+    <string name="no_internet">Please, enable internet connection before using this app</string>
+    <string name="category_list">Choose category</string>
+    <string name="search">Search</string>
+	<string name="detail">Detail</string>
+	<string name="add">Add to my orders</string>
+	<string name="share_btn">Share it</string>
+	<string name="share">Share</string>
+	<string name="contact">Contact with us</string>
+	<string name="callus">Call us</string>
+    <string name="alert">No internet connection!</string>
+    <string name="not_found">Not found!</string>
+    <string name="number_order">Enter quantity (number): </string>
+    <string name="order">Order</string>
+    <string name="my_order">Order information</string>
+    <string name="total_order">Total:</string>
+    <string name="clear_order">Clear orders</string>
+    <string name="clear_all_order">Do you want to clear all orders?</string>
+	<string name="clear_one_order">Do you want to clear order?</string>
+	<string name="db_exist_alert">Do you want to remove your previous order?</string>
+	<string name="confirm">Confirmation</string>
+	<string name="reservation">Reservation</string>
+	<string name="your_name">Your name</string>
+	<string name="address">Shipping address</string>
+	<string name="city">City</string>
+
+	<string name="email">Your Email</string>
+	<string name="number_of_people">Number of people</string>
+	<string name="date">Set data</string>
+	<string name="time">Set time</string>
+	<string name="phone_number">Phone</string>
+	<string name="order_list">Order List</string>
+	<string name="send_reservation">Send</string>
+	<string name="form_alert">Please, complete the form first.</string>
+	<string name="sending_alert">Sending data. Please wait &#8230;</string>
+	<string name="ok_alert">Your Order has been successfully sent.</string>
+	<string name="failed_alert">Your Order has not been sent.</string>
+	<string name="no_order">Your bucket is empty. Make your first order.</string>
+	<string name="check_order_later">Check if you want to order later</string>
+	<string name="order_later">#Shipp later</string>
+	 <string name="desc_list_item_icon">Item Icon</string>
+	<string name="no_order_menu">No orders</string>
+	<string name="order_alert">You don`t have any orders</string>
+	<string name="add_comment">Commentary </string>
+	<string name="menu_settings">Settings</string>
+	<string name="app_info">App Info</string>
+	<string name="main_menu">Main Menu</string>
+	<string name="title_activity_home">Main</string>
+	<string name="more">Application page</string>
+	<string name="rate">Rate app</string>
+	<string-array name="main_menu_list">
+        <item >List Menu</item>
+        <item >Your order</item>
+        <item >Confirmation</item>
+    </string-array>
+    
+	<string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>   
+    
+	<string name="menu_product">Menu</string>
+	<string name="menu_cart">Bucket</string>
+	<string name="menu_checkout">Orders</string>
+	<string name="menu_profile">Information</string>
+
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Main</item>
+        <item>Menu</item>
+        <item>Bucket</item>
+        <item>Orders</item>
+        <item>Profile</item>
+        <item>Information</item>
+        <item>About app</item>
+        <item>Share</item>
+        <item>Contact with us</item>
+        <item>Log out</item>
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons, keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>       
+        <item>@drawable/ic_product</item>
+        <item>@drawable/ic_cart</item>
+        <item>@drawable/ic_checkout</item>
+        <item>@drawable/ic_profile</item>
+        <item>@drawable/ic_info</item>
+        <item>@drawable/ic_about</item>
+        <item>@drawable/ic_share</item>
+        <item>@drawable/ic_contact</item>
+        <item>@drawable/ic_exit</item>
+    </array>
+      
+	<!-- Write your description about profile menu for tab 1 and tab 2 -->
+	<string name="profile_tab1">
+		Welcome to “Student Shop”.
+	</string>
+	<string name="profile_tab2">
+		<p><strong>How to order app?</strong>
+  You need: ...  </p>
+<p><strong>How to pay? </strong>
+</p>
+	</string>
+
+	
+	<!-- Write your description about information menu for tab 1, tab 2 and tab 3 -->
+	<string name="information_tab1">
+		Welcome to “Student Shop”.
+	</string>	
+	<string name="information_tab2">
+	</string>	
+	<string name="information_tab3">
+
+	</string>
+	
+	<!-- Write your description if order sent successfully -->
+	<string name="success_order">
+		Thankyou very much, Your Order has been successfully sent.
+		\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.
+	</string>
+	
+</resources>
