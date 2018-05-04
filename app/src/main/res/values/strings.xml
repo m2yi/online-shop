@@ -3,9 +3,9 @@
     <string name="app_name">Mike Shop</string>
     
     <!--  App About Information -->
-    <string name="app_version">Версия 1.1.0</string>
+    <string name="app_version">Version 1.1.0</string>
     <string name="copyright">Copyright &#169; 2015 Student Shop \n All rights reserved</string>
-    <string name="email_address">ledokol73@gmail.com</string>
+    <string name="email_address">m.mostetskyi@gmail.com</string>
 
 	<!-- Parse push notification -->
 	<string name="parse_application_id">V0c7q2d6VCVuc0LXZmk3ZZbUjI4UMhIrgWmekZxP</string>
